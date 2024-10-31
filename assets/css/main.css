@@ -3096,4 +3096,14 @@ section,
   }
 }
 
+@media (max-width: 767.98px) {
+  .macdum-container {
+      flex-direction: column;
+  }
+
+  .macdum-image {
+      order: -1;
+      margin-top: -100px;
+  }
+}
 
